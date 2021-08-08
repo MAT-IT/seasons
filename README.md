@@ -1,3 +1,18 @@
+<!-- 
+1) proje git-up a yulenir ve adres olusturulur
+2) '--dev gh-pages' install yapilir
+3)  package.json scriptler e asagidakiler eklenir
+    "predeploy":"yarn run build"
+    "deploy":"gh-pages -d build"
+4)package.jsona olusturulan adres eklenir
+  "homepage": "githup adresi"
+5)yarn deploy yap terminalde
+6)githup ta olusan gh-pages branchini sec
+
+ -->
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
