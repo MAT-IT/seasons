@@ -20,6 +20,7 @@
     "deploy":"gh-pages -d build"
   },
   "homepage": " https://mat-it.github.io/seasons/",
+  
   "eslintConfig": {
     "extends": [
       "react-app",
